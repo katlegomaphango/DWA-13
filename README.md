@@ -56,6 +56,6 @@ const products = [
  - Use ``` reduce ``` to concatenate all product names to create the following string: ``` banana, mango, potato, avocado, coffee and tea ```.
  - Use ``` reduce ``` to calculate both the highest and lowest-priced items. The names should be returned as the following string: ``` Highest: coffee. Lowest: banana``` .
  - Using only ``` Object.entries ``` and ``` reduce ``` recreate the object with the exact same values. However, the following object keys should be changed in the new array:
-  - ``` product ``` should be changed to ``` name ```
-  - ``` price ``` should be changed to ``` cost ```
+      - ``` product ``` should be changed to ``` name ```
+      - ``` price ``` should be changed to ``` cost ```
 
