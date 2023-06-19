@@ -26,3 +26,10 @@ const names = ['Ashwin', 'Sibongile', 'Jan-Hendrik', 'Sifso', 'Shailen', 'Frikki
  	Shailen: 'KwaZulu-Natal',
  	Frikkie: 'Free State',
 ```
+
+Below are additional exercises. However note that in all the following exercises all code should be written inside the brackets of a single console.log , with the final result being logged to the console. This means that your code will probably look something as follows:
+ ```
+console.log(
+  // Your code here
+)
+```
